@@ -1,0 +1,84 @@
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:51
+msgid "Error occurred during request. Error code:"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:71
+msgid "Update Checker Error:"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:101
+msgid "Enabled!"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:102
+msgid "Add-on updates are enabled."
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:105
+msgid "Disabled!"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:108
+msgid ""
+"Your account has expired. Please make a renewal payment to activate addon "
+"updates. You can <a href=\"https://s-plugins.com/stripe-plugin-support-"
+"renewal-payment/\" target=\"_blank\">renew from this page</a>."
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:109
+msgid ""
+"After renewal, you can click the button below to re-check the key and "
+"activate updates."
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:110
+msgid "Recheck & Activate"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:115
+msgid "Enabled for the free add-ons"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:116
+msgid ""
+"You don't need to enter a license key if only the free add-ons are used."
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:118
+msgid ""
+"Add-on updates are disabled. Please enter a valid license key to enable "
+"updates. You can find your <a href=\"https://s-plugins.com/your-license-key/"
+"\" target=\"_blank\">license key on this page</a>."
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:138
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:145
+msgid "Update Checker"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:139
+msgid "Status"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:140
+msgid ""
+"Enter your license key. If you have a paid and active account then you can "
+"find your <a href=\"https://s-plugins.com/your-license-key/\" target=\"_blank"
+"\">license key on this page</a>."
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:140
+msgid "License Key"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:184
+msgid "Don't show this message for now"
+msgstr ""
+
+#: stripe-payments-addons-update-checker/admin/class-asp-addons-update-checker-admin.php:199
+#, php-format
+msgid ""
+"<span><strong>Stripe Payments Addons Update Checker</strong></"
+"span><br>Please enter your license key on <a target=\"_blank\" href=\"%s"
+"\">settings page</a> to enable add-ons update."
+msgstr ""

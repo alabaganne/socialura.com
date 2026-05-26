@@ -1,0 +1,252 @@
+# Copyright (C) 2020 Tips and Tricks HQ, alexanderfoxc
+# This file is distributed under the same license as the Stripe Payments Additional Custom Fields Addon plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stripe Payments Additional Custom Fields Addon 2.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/asp-acf\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-10-27T15:30:23+02:00\n"
+"PO-Revision-Date: 2020-10-27T15:30:23+02:00\n"
+"X-Generator: WP-CLI 2.0.1\n"
+"X-Domain: asp-acf\n"
+
+#. Plugin Name of the plugin
+msgid "Stripe Payments Additional Custom Fields Addon"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://s-plugins.com/stripe-payments-custom-messages-addon/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Stripe Payments Additional Custom Fields Addon."
+msgstr ""
+
+#. Author of the plugin
+msgid "Tips and Tricks HQ, alexanderfoxc"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://s-plugins.com/"
+msgstr ""
+
+#: inc/class.asp-acf-fields.php:153
+#: inc/class.asp-acf-fields.php:165
+msgid "No"
+msgstr ""
+
+#: inc/class.asp-acf-fields.php:153
+msgid "Yes"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:37
+msgid "Select which custom fields are displayed for this product."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:38
+msgid "All fields"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:39
+msgid "Specific fields:"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:55
+msgid "No custom fields created."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:75
+msgid "Custom Field is superseded by Additional Custom Fields addon. Its settings are availabe %s"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:75
+#: admin/asp-acf-admin-menu.php:114
+msgid "here"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:106
+msgid "Additional Custom Fields Settings"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:107
+msgid "Enable Additional Custom Fields"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:107
+msgid "Enables additional custom fields."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:111
+msgctxt "%s is replaced by URL with word \"here\""
+msgid "You can find additional documentation %s."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:111
+msgctxt "Is a part of \"You can find additional documentation _here_\""
+msgid "here"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:114
+msgid "Custom Field functionality is disabled in core plugin. You need to enable it %s in order for Additional Custom Fields to be displayed."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:122
+msgid "Additional Custom Fields"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:319
+msgid "Label"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:321
+msgid "The input field label."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:329
+msgid "Description"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:331
+msgid "The input field help text that will be shown below the input field. HTML allowed. Leave empty if you don't want to show any help text."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:339
+msgid "Required"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:341
+msgid "Check this if you want to make the field a required field."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:355
+msgid "Checked By Default"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:358
+msgid "If enabled, checkbox will be checked by default when field is displayed."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:370
+msgid "Date Format"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:373
+msgid "Date format. Supports following values:"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:375
+msgid "d - day of month (no leading zero)"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:376
+msgid "dd - day of month (two digit)"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:377
+msgid "m - month of year (no leading zero)"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:378
+msgid "mm - month of year (two digit)"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:379
+msgid "y - year (two digit)"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:380
+msgid "yy - year (four digit)"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:382
+msgid "You can use any other character or symbol as separator. Example: dd/mm/yy or d.m.y"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:392
+msgid "Limit Date Range"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:395
+msgid "Select date range which would limit date selection. Leave it blank to not set any limitations."
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:400
+msgid "From"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:402
+msgid "To"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:410
+#: admin/asp-acf-admin-menu.php:521
+msgid "Items"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:416
+msgid "Add Item"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:427
+msgid "Delete item"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:438
+msgid "Delete Field"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:442
+msgid "Move Down"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:446
+msgid "Move Up"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:493
+msgid "Are you sure want to delete this field?"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:494
+msgid "Are you sure want to delete this item?"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:508
+msgid "Text"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:509
+msgid "Checkbox"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:510
+msgid "Datepicker"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:511
+msgid "Dropdown"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:514
+msgid "Add New"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:526
+msgid "Add Items"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:539
+msgid "Displays custom field's name and value. N is ID of the field"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:540
+msgid "Displays custom field's name only. N is ID of the field"
+msgstr ""
+
+#: admin/asp-acf-admin-menu.php:541
+msgid "Displays custom field's name value only. N is ID of the field"
+msgstr ""

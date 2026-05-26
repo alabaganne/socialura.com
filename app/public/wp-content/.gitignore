@@ -1,0 +1,19 @@
+# WPVivid and WordPress generated/runtime data
+wpvividbackups/
+wpvivid_uploads/
+wpvivid_staging/
+upgrade/
+upgrade-temp-backup/
+uploads/wc-logs/
+cache/
+temp/
+tmp/
+
+# Backup archives and dumps
+*.zip
+*.dump
+*.bak
+
+# Plugin debug output
+plugins/stripe-payments/*debug_log.txt
+plugins/stripe-payments/*.log

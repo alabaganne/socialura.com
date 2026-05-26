@@ -1,35 +1,37 @@
-# WPVivid backup files
-wpvividbackups/
+.DS_Store
+Thumbs.db
+
+# Local WordPress config and diagnostics
+app/public/wp-config.php
+app/public/local-phpinfo.php
+app/public/local-xdebuginfo.php
+
+# Runtime logs
+logs/**
+!logs/
+!logs/**/
+!logs/**/.gitkeep
+*.log
+
+# WordPress generated/runtime data
+app/public/wp-content/cache/
+app/public/wp-content/temp/
+app/public/wp-content/tmp/
+app/public/wp-content/upgrade/
+app/public/wp-content/upgrade-temp-backup/
+app/public/wp-content/wpvividbackups/
+app/public/wp-content/wpvivid_uploads/
+app/public/wp-content/wpvivid_staging/
+app/public/wp-content/uploads/wc-logs/
+
+# Backup archives and dumps
 *.zip
-
-# WordPress uploads (optional - these are usually user-generated content)
-# uploads/
-
-# WooCommerce logs
-uploads/wc-logs/
-
-# Cache and temporary files
-cache/
-temp/
-tmp/
-
-# Plugins (except stripe-payments which has custom modifications)
-plugins/advance-custom-html/
-plugins/code-snippets/
-plugins/font-awesome/
-plugins/media-sync/
-plugins/popup-maker/
-plugins/stripe-payments-additional-custom-fields/
-plugins/stripe-payments-addons-update-checker/
-plugins/wp-mail-smtp/
-plugins/wpforms-lite/
-plugins/wpvivid-backuprestore/
-
-# Security - Debug logs and sensitive files
-plugins/stripe-payments/*debug_log.txt
-plugins/stripe-payments/*.log
-
-# Backup files
+*.tar
+*.tar.gz
+*.tgz
 *.dump
 *.bak
-*backup*
+
+# Plugin debug output
+app/public/wp-content/plugins/stripe-payments/*debug_log.txt
+app/public/wp-content/plugins/stripe-payments/*.log
