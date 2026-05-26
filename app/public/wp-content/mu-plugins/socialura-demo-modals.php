@@ -45,8 +45,8 @@ add_action('wp_footer', function () {
       <h2 class="sdm-title">Content de vous revoir</h2>
       <p class="sdm-subtitle">Veuillez saisir vos informations de connexion.</p>
       <form id="sdm-login-form">
-        <div class="sdm-field"><label for="sdm-login-user">Username</label><input id="sdm-login-user" type="text" placeholder="Votre identifiant" required></div>
-        <div class="sdm-field"><label for="sdm-login-pass">Password</label><input id="sdm-login-pass" type="password" placeholder="Votre mot de passe" required></div>
+        <div class="sdm-field"><label for="sdm-login-user">Nom d’utilisateur</label><input id="sdm-login-user" type="text" placeholder="Votre nom d’utilisateur" required></div>
+        <div class="sdm-field"><label for="sdm-login-pass">Mot de passe</label><input id="sdm-login-pass" type="password" placeholder="Votre mot de passe" required></div>
         <button class="sdm-button" type="submit" style="margin-top:14px">S'identifier</button>
       </form>
       <div class="sdm-success" id="sdm-login-success"><div class="sdm-check">✓</div><h2 class="sdm-title">Connexion démo réussie</h2><p class="sdm-subtitle">Bienvenue sur votre espace démo.</p></div>
