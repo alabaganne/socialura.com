@@ -35,3 +35,6 @@ app/public/wp-content/uploads/wc-logs/
 # Plugin debug output
 app/public/wp-content/plugins/stripe-payments/*debug_log.txt
 app/public/wp-content/plugins/stripe-payments/*.log
+
+# Local demo contact submissions
+app/public/wp-content/uploads/socialura-contact-submissions/
